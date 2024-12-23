@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/dev/static/css/main.4252e3c2.css",
+    "main.js": "/dev/static/js/main.a3cea26f.js",
+    "static/js/770.b477def6.chunk.js": "/dev/static/js/770.b477def6.chunk.js",
+    "static/js/453.1407b060.chunk.js": "/dev/static/js/453.1407b060.chunk.js",
+    "static/media/customs.png": "/dev/static/media/customs.d4b5eeb38cce7e14b4d5.png",
+    "static/media/e_commerce.jpg": "/dev/static/media/e_commerce.742b157066efac94fdbd.jpg",
+    "static/media/profile-image.png": "/dev/static/media/profile-image.54cc9c9e4ccea33ee22d.png",
+    "static/media/twitter_data.png": "/dev/static/media/twitter_data.7ec2b90349874f6060b9.png",
+    "static/media/loan_project.png": "/dev/static/media/loan_project.972066aec60b8af5280b.png",
+    "static/media/average_metric_graphs.png": "/dev/static/media/average_metric_graphs.c03503026908e35ca003.png",
+    "static/media/resume.pdf": "/dev/static/media/resume.0c1967986fd633c07c8f.pdf",
+    "static/media/application-performance.jpg": "/dev/static/media/application-performance.000632671dc2876377e4.jpg",
+    "static/media/avatar.svg": "/dev/static/media/avatar.7f806e40d46fc76fbc3c4a3d71349951.svg",
+    "static/media/pre.svg": "/dev/static/media/pre.4410c5baaa673cc131da.svg",
+    "index.html": "/dev/index.html",
+    "main.4252e3c2.css.map": "/dev/static/css/main.4252e3c2.css.map",
+    "main.a3cea26f.js.map": "/dev/static/js/main.a3cea26f.js.map",
+    "770.b477def6.chunk.js.map": "/dev/static/js/770.b477def6.chunk.js.map",
+    "453.1407b060.chunk.js.map": "/dev/static/js/453.1407b060.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4252e3c2.css",
+    "static/js/main.a3cea26f.js"
+  ]
+}
